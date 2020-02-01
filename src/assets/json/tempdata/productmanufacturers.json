@@ -1,0 +1,24 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "name":"Manufacturer 1"
+        },
+        {
+            "id": 2,
+            "name":"Manufacturer 2"
+        },
+        {
+            "id": 3,
+            "name":"Manufacturer 3"
+        },
+        {
+            "id": 4,
+            "name":"Manufacturer 4"
+        },
+        {
+            "id": 5,
+            "name":"Manufacturer 5"
+        }
+    ]
+}

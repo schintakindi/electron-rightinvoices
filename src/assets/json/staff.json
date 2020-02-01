@@ -1,0 +1,84 @@
+{
+  "staff": [
+    {
+      "firstName": "sai kumar",
+      "lastName": "Reddy",
+      "mobile": "8309907687",
+      "password": "Saikumar9889",
+      "status": "true",
+      "loggedIn": "true"
+    },
+    {
+      "firstName": "siva kumar",
+      "lastName": "Reddy",
+      "mobile": "8099993656",
+      "password": "Sivakumar9889",
+      "status": "true",
+      "loggedIn": "true"
+    },
+    {
+      "firstName": "veeresh",
+      "lastName": "Reddy",
+      "mobile": "7780448237",
+      "password": "12345678",
+      "status": "true",
+      "loggedIn": "true"
+    },
+    {
+      "firstName": "Latha",
+      "lastName": "Lakshmi",
+      "mobile": "8333855952",
+      "password": "987654321",
+      "status": "true",
+      "loggedIn": "true"
+    },
+    {
+      "firstName": "Narendra",
+      "lastName": "Reddy",
+      "mobile": "8310005047",
+      "password": "narendra",
+      "status": "true",
+      "loggedIn": "true"
+    },
+    {
+      "firstName": "Raghavendra",
+      "lastName": "Reddy",
+      "mobile": "8008066899",
+      "password": "890123456",
+      "status": "true",
+      "loggedIn": "true"
+    },
+    {
+      "firstName": "Harsha",
+      "lastName": "kumar",
+      "mobile": "8143984367",
+      "password": "99999999",
+      "status": "true",
+      "loggedIn": "true"
+    },
+    {
+      "firstName": "Raghu",
+      "lastName": "Varma",
+      "mobile": "8456784534",
+      "password": "11111111",
+      "status": "true",
+      "loggedIn": "true"
+    },
+    {
+      "firstName": "Ganesh",
+      "lastName": "Sai",
+      "mobile": "8143984743",
+      "password": "333333333",
+      "status": "true",
+      "loggedIn": "true"
+    },
+    {
+      "firstName": "Rajesh",
+      "lastName": "Kumar",
+      "mobile": "7309907687",
+      "password": "55555555",
+      "status": "true",
+      "loggedIn": "true"
+    }
+  ]
+}

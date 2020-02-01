@@ -1,0 +1,78 @@
+{
+"data": [
+    {
+        "id": 1,
+        "purchaseInvoiceNumber":"TEST 1000",
+        "companyId": 1,
+        "purchaseInvoiceStockItemList": [
+          {
+            "stockItemId": {
+              "stockItemPrice": {},
+              "productName": "Stock Item One",
+              "id": 1
+            },
+            "id": null,
+            "qty": 1,
+            "itemTotal": 70,
+            "taxInclusive": "false",
+            "rate": 70
+          },
+          {
+            "stockItemId": {
+              "stockItemPrice": {},
+              "productName": "Stock Item One",
+              "id": 1
+            },
+            "id": null,
+            "qty": 1,
+            "itemTotal": 70,
+            "taxInclusive": "false",
+            "rate": 70
+          }
+        ],
+        "purchaseSubTotal": 140,
+        "purchaseTaxAmount": 10,
+        "totalPurchaseAmount": 150,
+        "isTaxable": 0,   
+        "supplierInvoiceNumber": "Test1000",
+        "supplierId": 1
+      },
+      {
+        "id":2,
+        "purchaseInvoiceNumber":"TEST 1001",
+        "companyId": 1,
+        "purchaseInvoiceStockItemList": [
+          {
+            "stockItemId": {
+              "stockItemPrice": {},
+              "productName": "Stock Item One",
+              "id": 1
+            },
+            "id": null,
+            "qty": 1,
+            "itemTotal": 70,
+            "taxInclusive": "false",
+            "rate": 70
+          },
+          {
+            "stockItemId": {
+              "stockItemPrice": {},
+              "productName": "Stock Item One",
+              "id": 1
+            },
+            "id": null,
+            "qty": 1,
+            "itemTotal": 70,
+            "taxInclusive": "false",
+            "rate": 70
+          }
+        ],
+        "purchaseSubTotal": 140,
+        "purchaseTaxAmount": 10,
+        "totalPurchaseAmount": 150,
+        "isTaxable": 0,   
+        "supplierInvoiceNumber": "Test1000",
+        "supplierId": 1
+      }
+]
+}

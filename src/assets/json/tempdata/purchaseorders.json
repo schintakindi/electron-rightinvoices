@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "id" : 1,       
+            "purchaseOrderNo": "PO1000",
+            "companyId": 1,
+            "orderDate": "2019-03-20T18:30:00.000Z",
+            "supplierId": 1,
+            "totalAmount": 70,
+            "purchaseOrderItem": [
+                {
+                    "stockItem": {
+                        "stockItemPrice": {},
+                        "productName": "Stock Item One",
+                        "id": 1
+                    },
+                    "id": null,
+                    "qty": 1,
+                    "rate": 70,
+                    "itemTotal": 70,
+                    "taxInclusive":"true"
+                }
+            ]
+        },
+        {
+            "id": 2,          
+            "purchaseOrderNo": "PO1001",  
+            "companyId": 1,
+            "orderDate": "2019-03-20T18:30:00.000Z",
+            "supplierId": 1,
+            "totalAmount": 70,
+            "purchaseOrderItem": [
+                {
+                    "stockItem": {
+                        "stockItemPrice": {},
+                        "productName": "Stock Item One",
+                        "id": 1
+                    },
+                    "id": null,
+                    "qty": 1,
+                    "rate": 70,
+                    "itemTotal": 70,
+                    "taxInclusive":"true"
+                }
+            ]
+        }
+    ]
+}

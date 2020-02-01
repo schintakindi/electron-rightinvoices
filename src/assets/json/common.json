@@ -1,0 +1,2039 @@
+{
+  "Range": [
+    {
+      "key": "0-1000",
+      "value": "Less Than 1000.0"
+    },
+    {
+      "key": "1001-5000",
+      "value": "Between 1001.00 and 5000.00"
+    },
+    {
+      "key": "5001-10000",
+      "value": "Between 5001.00 and 10,000.00"
+    },
+    {
+      "key": "10001-50000",
+      "value": "Between 10,001.00 and 50,000.00"
+    },
+    {
+      "key": "50001-100000",
+      "value": "Between 50,001.00 and 1,00,000.00"
+    },
+    {
+      "key": "",
+      "value": "All"
+    }
+  ],
+  "Period": [
+    {
+      "key": "yesterday",
+      "value": "yesterday"
+    },
+    {
+      "key": "today",
+      "value": "today"
+    },
+    {
+      "key": "week",
+      "value": "week"
+    },
+    {
+      "key": "month",
+      "value": "month"
+    },
+    {
+      "key": "quater",
+      "value": "quarter"
+    },
+    {
+      "key": "year",
+      "value": "year"
+    }
+  ],
+  "companyType": [
+    {
+      "key": "1",
+      "value": "Pharmacy"
+    },
+    {
+      "key": "2",
+      "value": "Fertilizers"
+    }
+  ],
+  "PayMode": [
+    {
+      "key": "Cash",
+      "value": "Cash"
+    },
+    {
+      "key": "Cheque",
+      "value": "Cheque"
+    },
+    {
+      "key": "Electronic",
+      "value": "Electronic"
+    }
+  ],
+  "PayModeSearch": [
+    {
+      "key": "Cash",
+      "value": "Cash"
+    },
+    {
+      "key": "Cheque",
+      "value": "Cheque"
+    },
+    {
+      "key": "Electronic",
+      "value": "Electronic"
+    },
+    {
+      "key": "",
+      "value": "All"
+    }
+  ],
+  "Customer": [
+    {
+      "key": "Invoice",
+      "value": "Invoice"
+    },
+    {
+      "key": "Sales",
+      "value": "Sales"
+    },
+    {
+      "key": "Billing",
+      "value": "Billing"
+    }
+  ],
+  "Payment": [
+    {
+      "key": "Cash",
+      "value": "Cash"
+    },
+    {
+      "key": "Card",
+      "value": "Card"
+    }
+  ],
+  "Delivery": [
+    {
+      "key": "Home",
+      "value": "Home"
+    },
+    {
+      "key": "Pickup",
+      "value": "Pickup"
+    },
+    {
+      "key": "Mail",
+      "value": "Mail"
+    },
+    {
+      "key": "Email",
+      "value": "Email"
+    }
+  ],
+  "Title": [
+    {
+      "key": "Mr.",
+      "value": "Mr."
+    },
+    {
+      "key": "Ms.",
+      "value": "Ms."
+    }
+  ],
+  "Tax": [
+    {
+      "key": "Nil",
+      "value": "Nil"
+    },
+    {
+      "key": "5% GST",
+      "value": "5% GST"
+    },
+    {
+      "key": "12% GST",
+      "value": "12% GST"
+    },
+    {
+      "key": "18% GST",
+      "value": "18% GST"
+    },
+    {
+      "key": "28% GST",
+      "value": "28% GST"
+    }
+  ],
+  "PurchaseTax": [
+    {
+      "key": "Nil SGST",
+      "value": "0"
+    },
+    {
+      "key": "Nil CGST",
+      "value": "0"
+    },
+    {
+      "key": "Nil IGST",
+      "value": "0"
+    },
+    {
+      "key": "2.5% SGST",
+      "value": "2.5% SGST"
+    },
+    {
+      "key": "2.5% CGST",
+      "value": "2.5% CGST"
+    },
+    {
+      "key": "5% IGST",
+      "value": "5% IGST"
+    },
+    {
+      "key": "12% IGST",
+      "value": "12% IGST"
+    },
+    {
+      "key": "18% IGST",
+      "value": "18% IGST"
+    },
+    {
+      "key": "28% IGST",
+      "value": "28% IGST"
+    },
+    {
+      "key": "6% SGST",
+      "value": "6% SGST"
+    },
+    {
+      "key": "6% CGST",
+      "value": "6% CGST"
+    }
+  ],
+  "RevenueAccount": [
+    {
+      "key": "RA",
+      " Value": "SALES"
+    }
+  ],
+  "AssetAccount": [
+    {
+      "key": "AS",
+      "value": "Test"
+    }
+  ],
+  "ExpenseAccount": [
+    {
+      "key": "EA",
+      "value": "purchase"
+    }
+  ],
+  "NewPurchaseTax": [
+    {
+      "key": "0",
+      "value": "0"
+    },
+    {
+      "key": "5%",
+      "value": "5%"
+    },
+    {
+      "key": "12%",
+      "value": "12%"
+    },
+    {
+      "key": "18%",
+      "value": "18%"
+    },
+    {
+      "key": "28%",
+      "value": "28%"
+    }
+  ],
+  "NewTax": [
+    {
+      "key": "0",
+      "value": "0"
+    },
+    {
+      "key": "5%",
+      "value": "5%"
+    },
+    {
+      "key": "12%",
+      "value": "12%"
+    },
+    {
+      "key": "18%",
+      "value": "18%"
+    },
+    {
+      "key": "28%",
+      "value": "28%"
+    }
+  ],
+  "GeneralExpense": [
+    {
+      "key": "Advance Paid to Party",
+      "value": "Advance Paid to Party"
+    },
+    {
+      "key": "Rent",
+      "value": "Rent"
+    },
+    {
+      "key": "Electricity",
+      "value": "Electricity"
+    },
+    {
+      "key": "Salary",
+      "value": "Salary"
+    },
+    {
+      "key": "TDS",
+      "value": "TDS"
+    }
+  ],
+  "ExpenseType": [
+    {
+      "key": "1",
+      "value": "Accumulated Depreciation"
+    },
+    {
+      "key": "2",
+      "value": "Accounts Receivable(Debtors)"
+    },
+    {
+      "key": "3",
+      "value": "Advance Payment Asset"
+    },
+    {
+      "key": "4",
+      "value": "Billable Expense Income"
+    },
+    {
+      "key": "5",
+      "value": "Advertising/Promotional"
+    },
+    {
+      "key": "6",
+      "value": "Ask My Accountant"
+    },
+    {
+      "key": "7",
+      "value": "Bank charges"
+    },
+    {
+      "key": "8",
+      "value": "Buildings and Improvements"
+    },
+    {
+      "key": "9",
+      "value": "Business Licenses and Permits"
+    },
+    {
+      "key": "10",
+      "value": "Cash and cash equivalent"
+    },
+    {
+      "key": "11",
+      "value": "CGST Payable"
+    },
+    {
+      "key": "12",
+      "value": "CGST write-off"
+    },
+    {
+      "key": "13",
+      "value": "Charitable Contributions"
+    },
+    {
+      "key": "14",
+      "value": "Computer and Internet Expense"
+    },
+    {
+      "key": "15",
+      "value": "Consulting Income"
+    },
+    {
+      "key": "16",
+      "value": "Cost of sales"
+    },
+    {
+      "key": "17",
+      "value": "CST Payable"
+    },
+    {
+      "key": "18",
+      "value": "CST Suspense"
+    },
+    {
+      "key": "19",
+      "value": "Deferred CGST"
+    },
+    {
+      "key": "20",
+      "value": "Deferred GST Input Credit"
+    },
+    {
+      "key": "21",
+      "value": "Deferred IGST"
+    },
+    {
+      "key": "22",
+      "value": "Deferred Krishi Kalyan Cess Input Credit"
+    },
+    {
+      "key": "23",
+      "value": "Deferred Service Tax Input Credit"
+    },
+    {
+      "key": "24",
+      "value": "Deferred SGST"
+    },
+    {
+      "key": "25",
+      "value": "Deferred VAT Input Credit"
+    },
+    {
+      "key": "26",
+      "value": "Depreciation Expense"
+    },
+    {
+      "key": "27",
+      "value": "Dues and Subscriptions"
+    },
+    {
+      "key": "Equipment Rental for Jobs",
+      "value": "Equipment Rental for Jobs"
+    },
+    {
+      "key": "Finance Charge Income",
+      "value": "Finance Charge Income"
+    },
+    {
+      "key": "Freight and Shipping Costs",
+      "value": "Freight and Shipping Costs"
+    },
+    {
+      "key": "Furniture and Equipment",
+      "value": "Furniture and Equipment"
+    },
+    {
+      "key": "GST Payable",
+      "value": "GST Payable"
+    },
+    {
+      "key": "GST Refund",
+      "value": "GST Refund"
+    },
+    {
+      "key": "GST Suspense",
+      "value": "GST Suspense"
+    },
+    {
+      "key": "GST write-off",
+      "value": "GST write-off"
+    },
+    {
+      "key": "Housekeeping Charges",
+      "value": "Housekeeping Charges"
+    },
+    {
+      "key": "IGST Payable",
+      "value": "IGST Payable"
+    },
+    {
+      "key": "IGST write-off",
+      "value": "IGST write-off"
+    },
+    {
+      "key": "Input CGST",
+      "value": "Input CGST"
+    },
+    {
+      "key": "Input CGST Tax RCM",
+      "value": "Input CGST Tax RCM"
+    },
+    {
+      "key": "Input IGST",
+      "value": "Input IGST"
+    },
+    {
+      "key": "Input IGST Tax RCM",
+      "value": "Input IGST Tax RCM"
+    },
+    {
+      "key": "Input Krishi Kalyan Cess",
+      "value": "Input Krishi Kalyan Cess"
+    },
+    {
+      "key": "Input Krishi Kalyan Cess RCM",
+      "value": "Input Krishi Kalyan Cess RCM"
+    },
+    {
+      "key": "Input Service Tax",
+      "value": "Input Service Tax"
+    },
+    {
+      "key": "Input Service Tax RCM",
+      "value": "Input Service Tax RCM"
+    },
+    {
+      "key": "Input SGST",
+      "value": "Input SGST"
+    },
+    {
+      "key": "Input SGST Tax RCM",
+      "value": "Input SGST Tax RCM"
+    },
+    {
+      "key": "Input VAT 14%",
+      "value": "Input VAT 14%"
+    },
+    {
+      "key": "Input VAT 4%",
+      "value": "Input VAT 4%"
+    },
+    {
+      "key": "Input VAT 5%",
+      "value": "Input VAT 5%"
+    },
+    {
+      "key": "Insurance Expense",
+      "value": "Insurance Expense"
+    },
+    {
+      "key": "Insurance Expense-General Liability Insurance",
+      "value": "Insurance Expense-General Liability Insurance"
+    },
+    {
+      "key": "Insurance Expense-Health Insurance",
+      "value": "Insurance Expense-Health Insurance"
+    },
+    {
+      "key": "Insurance Expense-Life and Disability Insurance",
+      "value": "Insurance Expense-Life and Disability Insurance"
+    },
+    {
+      "key": "Insurance Expense-Professional Liability",
+      "value": "Insurance Expense-Professional Liability"
+    },
+    {
+      "key": "Insurance Proceeds Received",
+      "value": "Insurance Proceeds Received"
+    },
+    {
+      "key": "Input VAT 4%",
+      "value": "Input VAT 4%"
+    },
+    {
+      "key": "Interest Expense",
+      "value": "Interest Expense"
+    },
+    {
+      "key": "Interest Income",
+      "value": "Interest Income"
+    },
+    {
+      "key": "Inventory Asset",
+      "value": "Inventory Asset"
+    },
+    {
+      "key": "Krishi Kalyan Cess Payable",
+      "value": "Krishi Kalyan Cess Payable"
+    },
+    {
+      "key": "Krishi Kalyan Cess Refund",
+      "value": "Krishi Kalyan Cess Refund"
+    },
+    {
+      "key": "Krishi Kalyan Cess Suspense",
+      "value": "Krishi Kalyan Cess Suspense"
+    },
+    {
+      "key": "Land",
+      "value": "Land"
+    },
+    {
+      "key": "Leasehold Improvements",
+      "value": "Leasehold Improvements"
+    },
+    {
+      "key": "Meals and entertainment",
+      "value": "Meals and entertainment"
+    },
+    {
+      "key": "Merchant Account Fees",
+      "value": "Merchant Account Fees"
+    },
+    {
+      "key": "Miscellaneous Expense",
+      "value": "Miscellaneous Expense"
+    },
+    {
+      "key": "Office Supplies",
+      "value": "Office Supplies"
+    },
+    {
+      "key": "Output CGST",
+      "value": "Output CGST"
+    },
+    {
+      "key": "Output CGST Tax RCM",
+      "value": "Output CGST Tax RCM"
+    },
+    {
+      "key": "Output CST 2%",
+      "value": "Output CST 2%"
+    },
+    {
+      "key": "Output IGST",
+      "value": "Output IGST"
+    },
+    {
+      "key": "Output IGST Tax RCM",
+      "value": "Output IGST Tax RCM"
+    },
+    {
+      "key": "Output Krishi Kalyan Cess",
+      "value": "Output Krishi Kalyan Cess"
+    },
+    {
+      "key": "Output Krishi Kalyan Cess RCM",
+      "value": "Output Krishi Kalyan Cess RCM"
+    },
+    {
+      "key": "Output Service Tax",
+      "value": "Output Service Tax"
+    },
+    {
+      "key": "Output Service Tax RCM",
+      "value": "Output Service Tax RCM"
+    },
+    {
+      "key": "Output SGST",
+      "value": "Output SGST"
+    },
+    {
+      "key": "Output SGST Tax RCM",
+      "value": "Output SGST Tax RCM"
+    },
+    {
+      "key": "Output VAT 14%",
+      "value": "Output VAT 14%"
+    },
+    {
+      "key": "Output VAT 4%",
+      "value": "Output VAT 4%"
+    },
+    {
+      "key": "Output VAT 5%",
+      "value": "Output VAT 5%"
+    },
+    {
+      "key": "Political Contributions",
+      "value": "Political Contributions"
+    },
+    {
+      "key": "Postage and Delivery",
+      "value": "Postage and Delivery"
+    },
+    {
+      "key": "Prepaid Insurance",
+      "value": "Prepaid Insurance"
+    },
+    {
+      "key": "Printing and Reproduction",
+      "value": "Printing and Reproduction"
+    },
+    {
+      "key": "Proceeds from Sale of Assets",
+      "value": "Proceeds from Sale of Assets"
+    },
+    {
+      "key": "Product Sales",
+      "value": "Product Sales"
+    },
+    {
+      "key": "Professional Fees",
+      "value": "Professional Fees"
+    },
+    {
+      "key": "Purchases",
+      "value": "Purchases"
+    },
+    {
+      "key": "Purchases - Hardware for Resale",
+      "value": "Purchases - Hardware for Resale"
+    },
+    {
+      "key": "Rent Expense",
+      "value": "Rent Expense"
+    },
+    {
+      "key": "Repair and maintenance",
+      "value": "Repair and maintenance"
+    },
+    {
+      "key": "Retained Earnings",
+      "value": "Retained Earnings"
+    },
+    {
+      "key": "Sales",
+      "value": "Sales"
+    },
+    {
+      "key": "Sales - Hardware",
+      "value": "Sales - Hardware"
+    },
+    {
+      "key": "Sales - Software",
+      "value": "Sales - Software"
+    },
+    {
+      "key": "Sales - Support and Maintenance",
+      "value": "Sales - Support and Maintenance"
+    },
+    {
+      "key": "Sales Discounts",
+      "value": "Sales Discounts"
+    },
+    {
+      "key": "Sales of Product Income",
+      "value": "Sales of Product Income"
+    },
+    {
+      "key": "Service Tax Payable",
+      "value": "Service Tax Payable"
+    },
+    {
+      "key": "Service Tax Refund",
+      "value": "Service Tax Refund"
+    },
+    {
+      "key": "Service Tax Suspense",
+      "value": "Service Tax Suspense"
+    },
+    {
+      "key": "Services",
+      "value": "Services"
+    },
+    {
+      "key": "SGST Payable",
+      "value": "SGST Payable"
+    },
+    {
+      "key": "SGST write-off",
+      "value": "SGST write-off"
+    },
+    {
+      "key": "Shipping and Delivery Income",
+      "value": "Shipping and Delivery Income"
+    },
+    {
+      "key": "Small Tools and Equipment",
+      "value": "Small Tools and Equipment"
+    },
+    {
+      "key": "Subcontracted Services",
+      "value": "Subcontracted Services"
+    },
+    {
+      "key": "Swachh Bharat Cess Payable",
+      "value": "Swachh Bharat Cess Payable"
+    },
+    {
+      "key": "Swachh Bharat Cess Suspense",
+      "value": "Swachh Bharat Cess Suspense"
+    },
+    {
+      "key": "Tax write-off",
+      "value": "Tax write-off"
+    },
+    {
+      "key": "Taxes - Property",
+      "value": "Taxes - Property"
+    },
+    {
+      "key": "TDS Payable",
+      "value": "TDS Payable"
+    },
+    {
+      "key": "TDS Receivable",
+      "value": "TDS Receivable"
+    },
+    {
+      "key": "Telephone Expense",
+      "value": "Telephone Expense"
+    },
+    {
+      "key": "Tools and Craft Supplies",
+      "value": "Tools and Craft Supplies"
+    },
+    {
+      "key": "Travel Expense",
+      "value": "Travel Expense"
+    },
+    {
+      "key": "Uncategorised Asset",
+      "value": "Uncategorised Asset"
+    },
+    {
+      "key": "Uncategorised Expense",
+      "value": "Uncategorised Expense"
+    },
+    {
+      "key": "Uncategorised Income",
+      "value": "Uncategorised Income"
+    },
+    {
+      "key": "Utilities",
+      "value": "Utilities"
+    },
+    {
+      "key": "VAT Payable",
+      "value": "VAT Payable"
+    },
+    {
+      "key": "VAT Suspense",
+      "value": "VAT Suspense"
+    },
+    {
+      "key": "Vehicle Expenses",
+      "value": "Vehicle Expenses"
+    },
+    {
+      "key": "Vehicles",
+      "value": "Vehicles"
+    },
+    {
+      "key": "Labour",
+      "value": "Labour"
+    },
+    {
+      "key": "Material",
+      "value": "Material"
+    },
+    {
+      "key": "Deferred CGST",
+      "value": "Deferred CGST"
+    },
+    {
+      "key": "Electicity Expenses",
+      "value": "Electicity Expenses"
+    },
+    {
+      "key": "Purchases",
+      "value": "Purchases"
+    },
+    {
+      "key": "Swachh Bharat Cess Expense",
+      "value": "Swachh Bharat Cess Expense"
+    },
+    {
+      "key": "Unapplied Cash Bill Payment Expense",
+      "value": "Unapplied Cash Bill Payment Expense"
+    },
+    {
+      "key": "Uncategorised Expense",
+      "value": "Uncategorised Expense"
+    }
+  ],
+  "stateList": [
+    {
+      "key": "Andaman and Nicobar Islands",
+      "value": "Andaman and Nicobar Islands"
+    },
+    {
+      "key": "Andhra Pradesh",
+      "value": "Andhra Pradesh"
+    },
+    {
+      "key": "Arunachal Pradesh",
+      "value": "Arunachal Pradesh"
+    },
+    {
+      "key": "Assam",
+      "value": "Assam"
+    },
+    {
+      "key": "Bihar",
+      "value": "Bihar"
+    },
+    {
+      "key": "Chhattisgarh",
+      "value": "Chhattisgarh"
+    },
+    {
+      "key": "Chandigarh",
+      "value": "Chandigarh"
+    },
+    {
+      "key": "Dadra and Nagar Haveli",
+      "value": "Dadra and Nagar Haveli"
+    },
+    {
+      "key": "Daman and Diu",
+      "value": "Daman and Diu"
+    },
+    {
+      "key": "Delhi",
+      "value": "Delhi"
+    },
+    {
+      "key": "Goa",
+      "value": "Goa"
+    },
+    {
+      "key": "Gujarat",
+      "value": "Gujarat"
+    },
+    {
+      "key": "Haryana",
+      "value": "Haryana"
+    },
+    {
+      "key": "Himachal Pradesh",
+      "value": "Himachal Pradesh"
+    },
+    {
+      "key": "Jammu and Kashmir",
+      "value": "Jammu and Kashmir"
+    },
+    {
+      "key": "Jharkhand",
+      "value": "Jharkhand"
+    },
+    {
+      "key": "Karnataka",
+      "value": "Karnataka"
+    },
+    {
+      "key": "Kerala",
+      "value": "Kerala"
+    },
+    {
+      "key": "Madhya Pradesh",
+      "value": "Madhya Pradesh"
+    },
+    {
+      "key": "Maharashtra",
+      "value": "Maharashtra"
+    },
+    {
+      "key": "Manipur",
+      "value": "Manipur"
+    },
+    {
+      "key": "Meghalaya",
+      "value": "Meghalaya"
+    },
+    {
+      "key": "Mizoram",
+      "value": "Mizoram"
+    },
+    {
+      "key": "Nagaland",
+      "value": "Nagaland"
+    },
+    {
+      "key": "Orissa",
+      "value": "Orissa"
+    },
+    {
+      "key": "Punjab",
+      "value": "Punjab"
+    },
+    {
+      "key": "Pondicherry",
+      "value": "Pondicherry"
+    },
+    {
+      "key": "Rajasthan",
+      "value": "Rajasthan"
+    },
+    {
+      "key": "Sikkim",
+      "value": "Sikkim"
+    },
+    {
+      "key": "Telangana",
+      "value": "Telangana"
+    },
+    {
+      "key": "Tamil Nadu",
+      "value": "Tamil Nadu"
+    },
+    {
+      "key": "Tripura",
+      "value": "Tripura"
+    },
+    {
+      "key": "Uttar Pradesh",
+      "value": "Uttar Pradesh"
+    },
+    {
+      "key": "Uttarakhand",
+      "value": "Uttarakhand"
+    },
+    {
+      "key": "West Bengal",
+      "value": "West Bengal"
+    }
+  ],
+  "payeeList": [
+    {
+      "key": "1",
+      "value": "gokul",
+      "Gstin": "29Abcde1234f2z5"
+    },
+    {
+      "key": "2",
+      "value": "Satwik",
+      "Gstin": "29abcde1234d2w3"
+    },
+    {
+      "key": "3",
+      "value": "Harsha",
+      "Gstin": "28abcde1232g2w1"
+    },
+    {
+      "key": "4",
+      "value": "Sai Reddy",
+      "Gstin": "28axcde1432f2z5"
+    },
+    {
+      "key": "5",
+      "value": "Raviteja",
+      "Gstin": "25aksmd1432f3z5"
+    },
+    {
+      "key": "6",
+      "value": "Jagadish",
+      "Gstin": "26qowjs1324f4z5"
+    },
+    {
+      "key": "7",
+      "value": "Sandeep",
+      "Gstin": "26qowjs1324f4z5"
+    },
+    {
+      "key": "8",
+      "value": "Kiriti",
+      "Gstin": "22swedr1824r3z6"
+    },
+    {
+      "key": "9",
+      "value": "sudeer",
+      "Gstin": "18cdews1843f4r4"
+    },
+    {
+      "key": "10",
+      "value": "sai",
+      "Gstin": "12hytfe3434f3z5"
+    }
+  ],
+  "Section": [
+    {
+      "key": "1",
+      "value": "Not plicable"
+    },
+    {
+      "key": "2",
+      "value": "192- Salaries"
+    },
+    {
+      "key": "3",
+      "value": "193- Interest On Debentures"
+    },
+    {
+      "key": "4",
+      "value": "194- Deemed Dividend"
+    }
+  ],
+  "ServiceType": [
+    {
+      "key": "type",
+      "value": "Delivery"
+    },
+    {
+      "key": "type",
+      "value": "Pickup"
+    }
+  ],
+  "IncomeAccount": [
+    {
+      "key": "500000",
+      "value": "500000"
+    }
+  ],
+  "IncomeAmount": [
+    {
+      "key": "100000",
+      "value": "100000"
+    }
+  ],
+  "Entity": [
+    {
+      "key": "1",
+      "value": "Resident Individual / HUF"
+    },
+    {
+      "key": "2",
+      "value": "Resident Other"
+    },
+    {
+      "key": "3",
+      "value": "NRI Individual / HUF"
+    },
+    {
+      "key": "4",
+      "value": "NRI other"
+    }
+  ],
+  "Terms": [
+    {
+      "key": "Due on receipt",
+      "value": "Due on receipt"
+    },
+    {
+      "key": "Net 15",
+      "value": "Net 15"
+    },
+    {
+      "key": "Net 30",
+      "value": "Net 30"
+    },
+    {
+      "key": "Net 60",
+      "value": "Net 60"
+    }
+  ],
+  "Bank": [
+    {
+      "key": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+      "value": "ABHYUDAYA COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "ABU DHABI COMMERCIAL BANK",
+      "value": "ABU DHABI COMMERCIAL BANK"
+    },
+    {
+      "key": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+      "value": "AHMEDABAD MERCANTILE COOPERATIVE BANK"
+    },
+    {
+      "key": "AIRTEL PAYMENTS BANK LIMITED",
+      "value": "AIRTEL PAYMENTS BANK LIMITED"
+    },
+    {
+      "key": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+      "value": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK"
+    },
+    {
+      "key": "ALLAHABAD BANK",
+      "value": "ALLAHABAD BANK"
+    },
+    {
+      "key": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+      "value": "ALMORA URBAN COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "ANDHRA BANK",
+      "value": "ANDHRA BANK"
+    },
+    {
+      "key": "ANDHRA PRAGATHI GRAMEENA BANK",
+      "value": "ANDHRA PRAGATHI GRAMEENA BANK"
+    },
+    {
+      "key": "APNA SAHAKARI BANK LIMITED",
+      "value": "APNA SAHAKARI BANK LIMITED"
+    },
+    {
+      "key": "AU SMALL FINANCE BANK LIMITED",
+      "value": "AU SMALL FINANCE BANK LIMITED"
+    },
+    {
+      "key": "AUSTRALIA AND NEW ZEALAND BANKING GROUP ",
+      "value": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED"
+    },
+    {
+      "key": "AXIS BANK",
+      "value": "AXIS BANK"
+    },
+    {
+      "key": "B N P PARIBAS",
+      "value": "B N P PARIBAS"
+    },
+    {
+      "key": "BANDHAN BANK LIMITED",
+      "value": "BANDHAN BANK LIMITED"
+    },
+    {
+      "key": "BANK OF AMERICA",
+      "value": "BANK OF AMERICA"
+    },
+    {
+      "key": "BANK OF BAHARAIN AND KUWAIT BSC",
+      "value": "BANK OF BAHARAIN AND KUWAIT BSC"
+    },
+    {
+      "key": "BANK OF BARODA",
+      "value": "BANK OF BARODA"
+    },
+    {
+      "key": "BANK OF CEYLON",
+      "value": "BANK OF CEYLON"
+    },
+    {
+      "key": "BANK OF INDIA",
+      "value": "BANK OF INDIA"
+    },
+    {
+      "key": "BANK OF MAHARASHTRA",
+      "value": "BANK OF MAHARASHTRA"
+    },
+    {
+      "key": "BANK OF TOKYO MITSUBISHI LIMITED",
+      "value": "BANK OF TOKYO MITSUBISHI LIMITED"
+    },
+    {
+      "key": "BARCLAYS BANK",
+      "value": "BARCLAYS BANK"
+    },
+    {
+      "key": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITE",
+      "value": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+      "value": "BHARAT COOPERATIVE BANK MUMBAI LIMITED"
+    },
+    {
+      "key": "CANARA BANK",
+      "value": "CANARA BANK"
+    },
+    {
+      "key": "CAPITAL SMALL FINANCE BANK LIMITED",
+      "value": "CAPITAL SMALL FINANCE BANK LIMITED"
+    },
+    {
+      "key": "CATHOLIC SYRIAN BANK LIMITED",
+      "value": "CATHOLIC SYRIAN BANK LIMITED"
+    },
+    {
+      "key": "CENTRAL BANK OF INDIA",
+      "value": "CENTRAL BANK OF INDIA"
+    },
+    {
+      "key": "CHINATRUST COMMERCIAL BANK LIMITED",
+      "value": "CHINATRUST COMMERCIAL BANK LIMITED"
+    },
+    {
+      "key": "CITI BANK",
+      "value": "CITI BANK"
+    },
+    {
+      "key": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+      "value": "CITIZEN CREDIT COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "CITY UNION BANK LIMITED",
+      "value": "CITY UNION BANK LIMITED"
+    },
+    {
+      "key": "CORPORATION BANK",
+      "value": "CORPORATION BANK"
+    },
+    {
+      "key": "CREDIT AGRICOLE CORPORATE AND INVESTMENT",
+      "value": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK CALYON BANK"
+    },
+    {
+      "key": "CREDIT SUISEE AG",
+      "value": "CREDIT SUISEE AG"
+    },
+    {
+      "key": "DCB BANK LIMITED",
+      "value": "DCB BANK LIMITED"
+    },
+    {
+      "key": "DENA BANK",
+      "value": "DENA BANK"
+    },
+    {
+      "key": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANG",
+      "value": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD"
+    },
+    {
+      "key": "DEPOSIT INSURANCE AND CREDIT GUARANTEE C",
+      "value": "DEPOSIT INSURANCE AND CREDIT GUARANTEE CORPORATION"
+    },
+    {
+      "key": "DEUSTCHE BANK",
+      "value": "DEUSTCHE BANK"
+    },
+    {
+      "key": "DEVELOPMENT BANK OF SINGAPORE",
+      "value": "DEVELOPMENT BANK OF SINGAPORE"
+    },
+    {
+      "key": "DHANALAKSHMI BANK",
+      "value": "DHANALAKSHMI BANK"
+    },
+    {
+      "key": "DOHA BANK QSC",
+      "value": "DOHA BANK QSC"
+    },
+    {
+      "key": "DOMBIVLI NAGARI SAHAKARI BANK LIMITED",
+      "value": "DOMBIVLI NAGARI SAHAKARI BANK LIMITED"
+    },
+    {
+      "key": "EQUITAS SMALL FINANCE BANK LIMITED",
+      "value": "EQUITAS SMALL FINANCE BANK LIMITED"
+    },
+    {
+      "key": "ESAF SMALL FINANCE BANK LIMITED",
+      "value": "ESAF SMALL FINANCE BANK LIMITED"
+    },
+    {
+      "key": "EXPORT IMPORT BANK OF INDIA",
+      "value": "EXPORT IMPORT BANK OF INDIA"
+    },
+    {
+      "key": "FEDERAL BANK",
+      "value": "FEDERAL BANK"
+    },
+    {
+      "key": "FINO PAYMENTS BANK",
+      "value": "FINO PAYMENTS BANK"
+    },
+    {
+      "key": "FIRSTRAND BANK LIMITED",
+      "value": "FIRSTRAND BANK LIMITED"
+    },
+    {
+      "key": "G P PARSIK BANK",
+      "value": "G P PARSIK BANK"
+    },
+    {
+      "key": "HARYANA STATE COOPERATIVE BANK",
+      "value": "HARYANA STATE COOPERATIVE BANK"
+    },
+    {
+      "key": "HDFC BANK",
+      "value": "HDFC BANK"
+    },
+    {
+      "key": "HIMACHAL PRADESH STATE COOPERATIVE BANK ",
+      "value": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD"
+    },
+    {
+      "key": "HSBC BANK",
+      "value": "HSBC BANK"
+    },
+    {
+      "key": "ICICI BANK LIMITED",
+      "value": "ICICI BANK LIMITED"
+    },
+    {
+      "key": "IDBI BANK",
+      "value": "IDBI BANK"
+    },
+    {
+      "key": "IDFC BANK LIMITED",
+      "value": "IDFC BANK LIMITED"
+    },
+    {
+      "key": "IDUKKI DISTRICT CO OPERATIVE BANK LTD",
+      "value": "IDUKKI DISTRICT CO OPERATIVE BANK LTD"
+    },
+    {
+      "key": "INDIAN BANK",
+      "value": "INDIAN BANK"
+    },
+    {
+      "key": "INDIAN OVERSEAS BANK",
+      "value": "INDIAN OVERSEAS BANK"
+    },
+    {
+      "key": "INDUSIND BANK",
+      "value": "INDUSIND BANK"
+    },
+    {
+      "key": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA ",
+      "value": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED"
+    },
+    {
+      "key": "INDUSTRIAL BANK OF KOREA",
+      "value": "INDUSTRIAL BANK OF KOREA"
+    },
+    {
+      "key": "JALGAON JANATA SAHAKARI BANK LIMITED",
+      "value": "JALGAON JANATA SAHAKARI BANK LIMITED"
+    },
+    {
+      "key": "JAMMU AND KASHMIR BANK LIMITED",
+      "value": "JAMMU AND KASHMIR BANK LIMITED"
+    },
+    {
+      "key": "JANAKALYAN SAHAKARI BANK LIMITED",
+      "value": "JANAKALYAN SAHAKARI BANK LIMITED"
+    },
+    {
+      "key": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
+      "value": "JANASEVA SAHAKARI BANK BORIVLI LIMITED"
+    },
+    {
+      "key": "JANASEVA SAHAKARI BANK LIMITED",
+      "value": "JANASEVA SAHAKARI BANK LIMITED"
+    },
+    {
+      "key": "JANATA SAHAKARI BANK LIMITED",
+      "value": "JANATA SAHAKARI BANK LIMITED"
+    },
+    {
+      "key": "JP MORGAN BANK",
+      "value": "JP MORGAN BANK"
+    },
+    {
+      "key": "KALLAPPANNA AWADE ICHALKARANJI JANATA SA",
+      "value": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED"
+    },
+    {
+      "key": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+      "value": "KALUPUR COMMERCIAL COOPERATIVE BANK"
+    },
+    {
+      "key": "KALYAN JANATA SAHAKARI BANK",
+      "value": "KALYAN JANATA SAHAKARI BANK"
+    },
+    {
+      "key": "KARNATAKA BANK LIMITED",
+      "value": "KARNATAKA BANK LIMITED"
+    },
+    {
+      "key": "KARNATAKA VIKAS GRAMEENA BANK",
+      "value": "KARNATAKA VIKAS GRAMEENA BANK"
+    },
+    {
+      "key": "KARUR VYSYA BANK",
+      "value": "KARUR VYSYA BANK"
+    },
+    {
+      "key": "KEB Hana Bank",
+      "value": "KEB Hana Bank"
+    },
+    {
+      "key": "KERALA GRAMIN BANK",
+      "value": "KERALA GRAMIN BANK"
+    },
+    {
+      "key": "KOTAK MAHINDRA BANK LIMITED",
+      "value": "KOTAK MAHINDRA BANK LIMITED"
+    },
+    {
+      "key": "LAXMI VILAS BANK",
+      "value": "LAXMI VILAS BANK"
+    },
+    {
+      "key": "MAHANAGAR COOPERATIVE BANK",
+      "value": "MAHANAGAR COOPERATIVE BANK"
+    },
+    {
+      "key": "Maharashtra Gramin Bank",
+      "value": "Maharashtra Gramin Bank"
+    },
+    {
+      "key": "MAHARASHTRA STATE COOPERATIVE BANK",
+      "value": "MAHARASHTRA STATE COOPERATIVE BANK"
+    },
+    {
+      "key": "MASHREQBANK PSC",
+      "value": "MASHREQBANK PSC"
+    },
+    {
+      "key": "MIZUHO BANK LTD",
+      "value": "MIZUHO BANK LTD"
+    },
+    {
+      "key": "NAGAR URBAN CO OPERATIVE BANK",
+      "value": "NAGAR URBAN CO OPERATIVE BANK"
+    },
+    {
+      "key": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+      "value": "NAGPUR NAGARIK SAHAKARI BANK LIMITED"
+    },
+    {
+      "key": "NATIONAL AUSTRALIA BANK LIMITED",
+      "value": "NATIONAL AUSTRALIA BANK LIMITED"
+    },
+    {
+      "key": "NATIONAL BANK OF ABU DHABI PJSC",
+      "value": "NATIONAL BANK OF ABU DHABI PJSC"
+    },
+    {
+      "key": "NEW INDIA COOPERATIVE BANK LIMITED",
+      "value": "NEW INDIA COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "NKGSB COOPERATIVE BANK LIMITED",
+      "value": "NKGSB COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "NUTAN NAGARIK SAHAKARI BANK LIMITED",
+      "value": "NUTAN NAGARIK SAHAKARI BANK LIMITED"
+    },
+    {
+      "key": "ORIENTAL BANK OF COMMERCE",
+      "value": "ORIENTAL BANK OF COMMERCE"
+    },
+    {
+      "key": "PAYTM PAYMENTS BANK LTD",
+      "value": "PAYTM PAYMENTS BANK LTD"
+    },
+    {
+      "key": "PRAGATHI KRISHNA GRAMIN BANK",
+      "value": "PRAGATHI KRISHNA GRAMIN BANK"
+    },
+    {
+      "key": "PRATHAMA BANK",
+      "value": "PRATHAMA BANK"
+    },
+    {
+      "key": "PRIME COOPERATIVE BANK LIMITED",
+      "value": "PRIME COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "PT BANK MAYBANK INDONESIA TBK",
+      "value": "PT BANK MAYBANK INDONESIA TBK"
+    },
+    {
+      "key": "PUNJAB AND MAHARSHTRA COOPERATIVE BANK",
+      "value": "PUNJAB AND MAHARSHTRA COOPERATIVE BANK"
+    },
+    {
+      "key": "PUNJAB AND SIND BANK",
+      "value": "PUNJAB AND SIND BANK"
+    },
+    {
+      "key": "PUNJAB NATIONAL BANK",
+      "value": "PUNJAB NATIONAL BANK"
+    },
+    {
+      "key": "RABOBANK INTERNATIONAL",
+      "value": "RABOBANK INTERNATIONAL"
+    },
+    {
+      "key": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
+      "value": "RAJGURUNAGAR SAHAKARI BANK LIMITED"
+    },
+    {
+      "key": "RAJKOT NAGRIK SAHAKARI BANK LIMITED",
+      "value": "RAJKOT NAGRIK SAHAKARI BANK LIMITED"
+    },
+    {
+      "key": "RBL Bank Limited",
+      "value": "RBL Bank Limited"
+    },
+    {
+      "key": "RESERVE BANK OF INDIA, PAD",
+      "value": "RESERVE BANK OF INDIA, PAD"
+    },
+    {
+      "key": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMIT",
+      "value": "SAHEBRAO DESHMUKH COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "SAMARTH SAHAKARI BANK LTD",
+      "value": "SAMARTH SAHAKARI BANK LTD"
+    },
+    {
+      "key": "SARASWAT COOPERATIVE BANK LIMITED",
+      "value": "SARASWAT COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "SBER BANK",
+      "value": "SBER BANK"
+    },
+    {
+      "key": "SBM BANK MAURITIUS LIMITED",
+      "value": "SBM BANK MAURITIUS LIMITED"
+    },
+    {
+      "key": "SHIKSHAK SAHAKARI BANK LIMITED",
+      "value": "SHIKSHAK SAHAKARI BANK LIMITED"
+    },
+    {
+      "key": "SHINHAN BANK",
+      "value": "SHINHAN BANK"
+    },
+    {
+      "key": "SHIVALIK MERCANTILE CO OPERATIVE BANK LT",
+      "value": "SHIVALIK MERCANTILE CO OPERATIVE BANK LTD"
+    },
+    {
+      "key": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN CO",
+      "value": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "SOCIETE GENERALE",
+      "value": "SOCIETE GENERALE"
+    },
+    {
+      "key": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+      "value": "SOLAPUR JANATA SAHAKARI BANK LIMITED"
+    },
+    {
+      "key": "SOUTH INDIAN BANK",
+      "value": "SOUTH INDIAN BANK"
+    },
+    {
+      "key": "STANDARD CHARTERED BANK",
+      "value": "STANDARD CHARTERED BANK"
+    },
+    {
+      "key": "STATE BANK OF BIKANER AND JAIPUR",
+      "value": "STATE BANK OF BIKANER AND JAIPUR"
+    },
+    {
+      "key": "STATE BANK OF HYDERABAD",
+      "value": "STATE BANK OF HYDERABAD"
+    },
+    {
+      "key": "STATE BANK OF INDIA",
+      "value": "STATE BANK OF INDIA"
+    },
+    {
+      "key": "STATE BANK OF MYSORE",
+      "value": "STATE BANK OF MYSORE"
+    },
+    {
+      "key": "STATE BANK OF PATIALA",
+      "value": "STATE BANK OF PATIALA"
+    },
+    {
+      "key": "STATE BANK OF TRAVANCORE",
+      "value": "STATE BANK OF TRAVANCORE"
+    },
+    {
+      "key": "SUMITOMO MITSUI BANKING CORPORATION",
+      "value": "SUMITOMO MITSUI BANKING CORPORATION"
+    },
+    {
+      "key": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
+      "value": "SURAT NATIONAL COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "SURYODAY SMALL FINANCE BANK LIMITED",
+      "value": "SURYODAY SMALL FINANCE BANK LIMITED"
+    },
+    {
+      "key": "SUTEX COOPERATIVE BANK LIMITED",
+      "value": "SUTEX COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "SYNDICATE BANK",
+      "value": "SYNDICATE BANK"
+    },
+    {
+      "key": "TAMILNAD MERCANTILE BANK LIMITED",
+      "value": "TAMILNAD MERCANTILE BANK LIMITED"
+    },
+    {
+      "key": "TELANGANA STATE COOP APEX BANK",
+      "value": "TELANGANA STATE COOP APEX BANK"
+    },
+    {
+      "key": "TEXTILE TRADERS CO-OPERATIVE BANK LIMITE",
+      "value": "TEXTILE TRADERS CO-OPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "THE A.P. MAHESH COOPERATIVE URBAN BANK L",
+      "value": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED"
+    },
+    {
+      "key": "THE AKOLA DISTRICT CENTRAL COOPERATIVE B",
+      "value": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK"
+    },
+    {
+      "key": "THE ANDHRA PRADESH STATE COOPERATIVE BAN",
+      "value": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "THE BANK OF NOVA SCOTIA",
+      "value": "THE BANK OF NOVA SCOTIA"
+    },
+    {
+      "key": "THE BARAMATI SAHAKARI BANK LTD",
+      "value": "THE BARAMATI SAHAKARI BANK LTD"
+    },
+    {
+      "key": "THE COSMOS CO OPERATIVE BANK LIMITED",
+      "value": "THE COSMOS CO OPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+      "value": "THE DELHI STATE COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "THE GADCHIROLI DISTRICT CENTRAL COOPERAT",
+      "value": "THE GADCHIROLI DISTRICT CENTRAL COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "THE GREATER BOMBAY COOPERATIVE BANK LIMI",
+      "value": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "THE GUJARAT STATE COOPERATIVE BANK LIMIT",
+      "value": "THE GUJARAT STATE COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "THE HASTI COOP BANK LTD",
+      "value": "THE HASTI COOP BANK LTD"
+    },
+    {
+      "key": "THE JALGAON PEOPELS COOPERATIVE BANK LIM",
+      "value": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "THE KANGRA CENTRAL COOPERATIVE BANK LIMI",
+      "value": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "THE KANGRA COOPERATIVE BANK LIMITED",
+      "value": "THE KANGRA COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+      "value": "THE KARAD URBAN COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "THE KARANATAKA STATE COOPERATIVE APEX BA",
+      "value": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED"
+    },
+    {
+      "key": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMIT",
+      "value": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED"
+    },
+    {
+      "key": "THE MEHSANA URBAN COOPERATIVE BANK",
+      "value": "THE MEHSANA URBAN COOPERATIVE BANK"
+    },
+    {
+      "key": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE ",
+      "value": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+      "value": "THE MUNICIPAL COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "THE NAINITAL BANK LIMITED",
+      "value": "THE NAINITAL BANK LIMITED"
+    },
+    {
+      "key": "THE NASIK MERCHANTS COOPERATIVE BANK LIM",
+      "value": "THE NASIK MERCHANTS COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "THE NAVNIRMAN CO-OPERATIVE BANK LIMITED",
+      "value": "THE NAVNIRMAN CO-OPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "THE PANDHARPUR URBAN CO OP. BANK LTD. PA",
+      "value": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR"
+    },
+    {
+      "key": "THE RAJASTHAN STATE COOPERATIVE BANK LIM",
+      "value": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "THE ROYAL BANK OF SCOTLAND N V",
+      "value": "THE ROYAL BANK OF SCOTLAND N V"
+    },
+    {
+      "key": "THE SEVA VIKAS COOPERATIVE BANK LIMITED",
+      "value": "THE SEVA VIKAS COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+      "value": "THE SHAMRAO VITHAL COOPERATIVE BANK"
+    },
+    {
+      "key": "THE SINDHUDURG DISTRICT CENTRAL COOP BAN",
+      "value": "THE SINDHUDURG DISTRICT CENTRAL COOP BANK LTD"
+    },
+    {
+      "key": "THE SURAT DISTRICT COOPERATIVE BANK LIMI",
+      "value": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "THE SURATH PEOPLES COOPERATIVE BANK LIMI",
+      "value": "THE SURATH PEOPLES COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "THE TAMIL NADU STATE APEX COOPERATIVE BA",
+      "value": "THE TAMIL NADU STATE APEX COOPERATIVE BANK"
+    },
+    {
+      "key": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+      "value": "THE THANE BHARAT SAHAKARI BANK LIMITED"
+    },
+    {
+      "key": "THE THANE DISTRICT CENTRAL COOPERATIVE B",
+      "value": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "THE VARACHHA COOPERATIVE BANK LIMITED",
+      "value": "THE VARACHHA COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+      "value": "THE VISHWESHWAR SAHAKARI BANK LIMITED"
+    },
+    {
+      "key": "THE WEST BENGAL STATE COOPERATIVE BANK",
+      "value": "THE WEST BENGAL STATE COOPERATIVE BANK"
+    },
+    {
+      "key": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+      "value": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "TJSB SAHAKARI BANK LIMITED",
+      "value": "TJSB SAHAKARI BANK LIMITED"
+    },
+    {
+      "key": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK ",
+      "value": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED"
+    },
+    {
+      "key": "UCO BANK",
+      "value": "UCO BANK"
+    },
+    {
+      "key": "Ujjivan Small Finance Bank Limited",
+      "value": "Ujjivan Small Finance Bank Limited"
+    },
+    {
+      "key": "UNION BANK OF INDIA",
+      "value": "UNION BANK OF INDIA"
+    },
+    {
+      "key": "UNITED BANK OF INDIA",
+      "value": "UNITED BANK OF INDIA"
+    },
+    {
+      "key": "UNITED OVERSEAS BANK LIMITED",
+      "value": "UNITED OVERSEAS BANK LIMITED"
+    },
+    {
+      "key": "UTKARSH SMALL FINANCE BANK",
+      "value": "UTKARSH SMALL FINANCE BANK"
+    },
+    {
+      "key": "VASAI VIKAS SAHAKARI BANK LIMITED",
+      "value": "VASAI VIKAS SAHAKARI BANK LIMITED"
+    },
+    {
+      "key": "VIJAYA BANK",
+      "value": "VIJAYA BANK"
+    },
+    {
+      "key": "WESTPAC BANKING CORPORATION",
+      "value": "WESTPAC BANKING CORPORATION"
+    },
+    {
+      "key": "WOORI BANK",
+      "value": "WOORI BANK"
+    },
+    {
+      "key": "YES BANK",
+      "value": "YES BANK"
+    },
+    {
+      "key": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+      "value": "ZILA SAHAKRI BANK LIMITED GHAZIABAD"
+    }
+  ],
+  "Model": [
+    {
+      "key": "Audi",
+      "value": "A1"
+    },
+    {
+      "key": "Audi",
+      "value": "A2"
+    }
+  ],
+  "CompanyType": [
+    {
+      "key": "3",
+      "value": "Auto"
+    }
+  ],
+  "Brand": [
+    {
+      "key": "1",
+      "value": "Audi"
+    }
+  ],
+
+  "pieData": ["Task", "Hours per Day"],
+  "pieData1": ["Rent Expense", 23.96],
+  "pieData2": ["Advertising And Marketing", 21.44],
+  "pieData3": ["Rent Expense", 23.96],
+  "pieData4": ["Automobile Expense", 10.0],
+  "pieData5": ["Bad Debt", 11.01],
+  "pieData6": ["Others", 19.71],
+
+  "pieChart": [
+    {
+      "head": ["Task", "Hours per Day"],
+      "expense": ["Rent Expense", 23.96],
+      "adds": ["Advertising And Marketing", 21.44],
+      "purchase": ["Rent Expense", 23.96],
+      "automobile": ["Automobile Expense", 10.0],
+      "debt": ["Bad Debt", 11.01],
+      "Others": ["Others", 19.71]
+    }
+  ],
+
+  "incomeExpenses": [
+    {
+      "head": ["Months", "Income", "Expense"],
+      "jan": ["Jan", 7000, 24.3],
+      "feb": ["Feb", 24000, 4.5],
+      "mar": ["Mar", 30000, 14.3],
+      "apr": ["Apr", 50000, 0.9],
+      "may": ["May", 60000, 13.1],
+      "jun": ["Jun", 30000, 14.3],
+      "jul": ["Jul", 50000, 0.9],
+      "aug": ["Aug", 60000, 13.1],
+      "sep": ["Sep", 60000, 13.1],
+      "oct": ["oct", 30000, 14.3],
+      "nov": ["Nov", 50000, 0.9],
+      "dec": ["Dec", 60000, 13.1],
+      "totalIncome": "427544.05",
+      "totalExpenses": "229477.03"
+    }
+  ],
+
+  "incomeHead": ["Months", "Income", "Expense"],
+  "income1": ["Jan", 7000, 24.3],
+  "income2": ["Feb", 24000, 4.5],
+  "income3": ["Mar", 30000, 14.3],
+  "income4": ["Apr", 50000, 0.9],
+  "income5": ["May", 60000, 13.1],
+  "income6": ["Jun", 30000, 14.3],
+  "income7": ["Jul", 50000, 0.9],
+  "income8": ["Aug", 60000, 13.1],
+  "income9": ["Sep", 60000, 13.1],
+  "income10": ["oct", 30000, 14.3],
+  "income11": ["Nov", 50000, 0.9],
+  "income12": ["Dec", 60000, 13.1],
+
+  "sales": [
+    {
+      "head": ["Months", "Sales"],
+      "jan": [1, 10],
+      "feb": [2, 28],
+      "mar": [3, 19],
+      "apr": [4, 29],
+      "may": [5, 50],
+      "jun": [6, 40],
+      "jul": [7, 65],
+      "aug": [8, 45],
+      "sep": [9, 68],
+      "oct": [10, 50],
+      "nov": [11, 55],
+      "dec": [12, 80],
+      "salesAmount": "5,20,000.00"
+    }
+  ],
+
+  "salesHead": [0, 0],
+  "sales1": [1, 10],
+  "sales2": [2, 28],
+  "sales3": [3, 19],
+  "sales4": [4, 29],
+  "sales5": [5, 50],
+  "sales6": [6, 40],
+  "sales7": [7, 65],
+  "sales8": [8, 45],
+  "sales9": [9, 68],
+  "sales10": [10, 50],
+  "sales11": [11, 55],
+  "sales12": [12, 80],
+
+  "stockinfo": [
+    {
+      "head": ["Task", "Hours per Day"],
+      "soldPercentage": ["Stock Sold", 50],
+      "stockPercentage": ["Stock at Hand", 50],
+      "stockAtHand": "3,00,000.00",
+      "soldStock": "7,00,000.00"
+    }
+  ],
+  "stockinfo1": ["Task", "Hours per Day"],
+  "stockinfo2": ["Stock Sold", 30],
+  "stockinfo3": ["Stock at Hand", 70],
+
+  "months": [
+    {
+      "key": "1",
+      "value": "January"
+    },
+    {
+      "key": "2",
+      "value": "February"
+    },
+    {
+      "key": "3",
+      "value": "March"
+    },
+    {
+      "key": "4",
+      "value": "April"
+    },
+    {
+      "key": "5",
+      "value": "May"
+    },
+    {
+      "key": "6",
+      "value": "June"
+    },
+    {
+      "key": "7",
+      "value": "July"
+    },
+    {
+      "key": "8",
+      "value": "August"
+    },
+    {
+      "key": "9",
+      "value": "September"
+    },
+    {
+      "key": "10",
+      "value": "October"
+    },
+    {
+      "key": "11",
+      "value": "November"
+    },
+    {
+      "key": "12",
+      "value": "December"
+    }
+  ]
+}

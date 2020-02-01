@@ -1,0 +1,10 @@
+{
+    "data":[
+        {"reporttype":"INVOICE",
+            "Columns":["Brand","CreatedBy","CreatedDate","ItemName","SKU"]
+        },
+        {"reporttype":"DAYREPORT",
+            "Columns":["CreditAmount","Date","DebitAmount","Particulars","Type"]
+        }
+    ]
+}

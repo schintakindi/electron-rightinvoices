@@ -1,0 +1,642 @@
+﻿{
+	"accounts": [
+	{
+		"name": "Deferred CGST",
+		"type": "Current assets",
+		"detailType": "Deferred Service Tax Input Credit"
+	},
+	{
+		"name": "Deferred GST Input Credit",
+		"type": "Current assets",
+		"detailType": "Deferred Service Tax Input Credit"
+	},
+	{
+		"name": "Deferred IGST",
+		"type": "Current assets",
+		"detailType": "Deferred Service Tax Input Credit"
+	},
+	{
+		"name": "Deferred Krishi Kalyan Cess Input Credit",
+		"type": "Current assets",
+		"detailType": "Deferred Service Tax Input Credit"
+	},
+	{
+		"name": "Deferred Service Tax Input Credit",
+		"type": "Current assets",
+		"detailType": "Deferred Service Tax Input Credit"
+	},
+	{
+		"name": "Deferred SGST",
+		"type": "Current assets",
+		"detailType": "Deferred Service Tax Input Credit"
+	},
+	{
+		"name": "Deferred VAT Input Credit",
+		"type": "Current assets",
+		"detailType": "Deferred Service Tax Input Credit"
+	},
+	{
+		"name": "GST Refund",
+		"type": "Current assets",
+		"detailType": "Service Tax Refund"
+	},
+	{
+		"name": "Inventory Asset",
+		"type": "Current assets",
+		"detailType": "Inventory"
+	},
+	{
+		"name": "Krishi Kalyan Cess Refund",
+		"type": "Current assets",
+		"detailType": "Service Tax Refund"
+	},
+	{
+		"name": "Prepaid Insurance",
+		"type": "Current assets",
+		"detailType": "Prepaid Expenses"
+	},
+	{
+		"name": "Service Tax Refund",
+		"type": "Current assets",
+		"detailType": "Service Tax Refund"
+	},
+	{
+		"name": "TDS Receivable",
+		"type": "Current assets",
+		"detailType": "Other current assets"
+	},
+	{
+		"name": "Uncategorised Asset",
+		"type": "Current assets",
+		"detailType": "Other current assets"
+	},
+	{
+		"name": "Accumulated Depreciation",
+		"type": "Fixed assets",
+		"detailType": "Accumulated Depreciation"
+	},
+	{
+		"name": "Buildings and Improvements",
+		"type": "Fixed assets",
+		"detailType": "Buildings"
+	},
+	{
+		"name": "Furniture and Equipment",
+		"type": "Fixed assets",
+		"detailType": "Furniture and Fixtures"
+	},
+	{
+		"name": "Land",
+		"type": "Fixed assets",
+		"detailType": "Land"
+	},
+	{
+		"name": "Leasehold Improvements",
+		"type": "Fixed assets",
+		"detailType": "Leasehold Improvements"
+	},
+	{
+		"name": "Vehicles",
+		"type": "Fixed assets",
+		"detailType": "Vehicles"
+	},
+	{
+		"name": "CGST Payable",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "CST Payable",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "CST Suspense",
+		"type": "Current liabilities",
+		"detailType": "Tax Suspense"
+	},
+	{
+		"name": "GST Payable",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "GST Suspense",
+		"type": "Current liabilities",
+		"detailType": "Tax Suspense"
+	},
+	{
+		"name": "IGST Payable",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Input CGST",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Input CGST Tax RCM",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Input IGST",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Input IGST Tax RCM",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Input Krishi Kalyan Cess",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Input Krishi Kalyan Cess RCM",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Input Service Tax",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Input Service Tax RCM",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Input SGST",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Input SGST Tax RCM",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Input VAT 14%",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Input VAT 4%",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Input VAT 5%",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Krishi Kalyan Cess Payable",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Krishi Kalyan Cess Suspense",
+		"type": "Current liabilities",
+		"detailType": "Tax Suspense"
+	},
+	{
+		"name": "Output CGST",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Output CGST Tax RCM",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Output CST 2%",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Output IGST",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Output IGST Tax RCM",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Output Krishi Kalyan Cess",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Output Krishi Kalyan Cess RCM",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Output Service Tax",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Output Service Tax RCM",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Output SGST",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Output SGST Tax RCM",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Output VAT 14%",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Output VAT 4%",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Output VAT 5%",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Service Tax Payable",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Service Tax Suspense",
+		"type": "Current liabilities",
+		"detailType": "Tax Suspense"
+	},
+	{
+		"name": "SGST Payable",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Swachh Bharat Cess Payable",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "Swachh Bharat Cess Suspense",
+		"type": "Current liabilities",
+		"detailType": "Tax Suspense"
+	},
+	{
+		"name": "TDS Payable",
+		"type": "Current liabilities",
+		"detailType": "Current Liabilities"
+	},
+	{
+		"name": "VAT Payable",
+		"type": "Current liabilities",
+		"detailType": "Sales and service tax payable"
+	},
+	{
+		"name": "VAT Suspense",
+		"type": "Current liabilities",
+		"detailType": "Tax Suspense"
+	},
+	{
+		"name": "Retained Earnings",
+		"type": "Equity",
+		"detailType": "Retained Earnings"
+	},
+	{
+		"name": "Billable Expense Income",
+		"type": "Income",
+		"detailType": "Service/Fee Income"
+	},
+	{
+		"name": "Consulting Income",
+		"type": "Income",
+		"detailType": "Service/Fee Income"
+	},
+	{
+		"name": "Product Sales",
+		"type": "Income",
+		"detailType": "Sales of Product Income"
+	},
+	{
+		"name": "Sales",
+		"type": "Income",
+		"detailType": "Sales of Product Income"
+	},
+	{
+		"name": "Sales - Hardware",
+		"type": "Income",
+		"detailType": "Sales of Product Income"
+	},
+	{
+		"name": "Sales - Software",
+		"type": "Income",
+		"detailType": "Sales of Product Income"
+	},
+	{
+		"name": "Sales - Support and Maintenance",
+		"type": "Income",
+		"detailType": "Sales of Product Income"
+	},
+	{
+		"name": "Sales Discounts",
+		"type": "Income",
+		"detailType": "Discounts/Refunds Given"
+	},
+	{
+		"name": "Sales of Product Income",
+		"type": "Income",
+		"detailType": "Sales of Product Income"
+	},
+	{
+		"name": "Services",
+		"type": "Income",
+		"detailType": "Service/Fee Income"
+	},
+	{
+		"name": "Uncategorised Income",
+		"type": "Income",
+		"detailType": "Service/Fee Income"
+	},
+	{
+		"name": "Cost of sales",
+		"type": "Cost of Goods Sold",
+		"detailType": "Supplies and materials - COS"
+	},
+	{
+		"name": "Equipment Rental for Jobs",
+		"type": "Cost of Goods Sold",
+		"detailType": "Cost of Goods Sold"
+	},
+	{
+		"name": "Freight and Shipping Costs",
+		"type": "Cost of Goods Sold",
+		"detailType": "Cost of Goods Sold"
+	},
+	{
+		"name": "Merchant Account Fees",
+		"type": "Cost of Goods Sold",
+		"detailType": "Cost of Goods Sold"
+	},
+	{
+		"name": "Purchases - Hardware for Resale",
+		"type": "Cost of Goods Sold",
+		"detailType": "Cost of Goods Sold"
+	},
+	{
+		"name": "Purchases - Software for Resale",
+		"type": "Cost of Goods Sold",
+		"detailType": "Cost of Goods Sold"
+	},
+	{
+		"name": "Subcontracted Services",
+		"type": "Cost of Goods Sold",
+		"detailType": "Cost of Goods Sold"
+	},
+	{
+		"name": "Tools and Craft Supplies",
+		"type": "Cost of Goods Sold",
+		"detailType": "Cost of Goods Sold"
+	},
+	{
+		"name": "Advertising/Promotional",
+		"type": "Expenses",
+		"detailType": "Advertising/Promotional"
+	},
+	{
+		"name": "Bank charges",
+		"type": "Expenses",
+		"detailType": "Bank charges"
+	},
+	{
+		"name": "Business Licenses and Permits",
+		"type": "Expenses",
+		"detailType": "Office/General Administrative Expenses"
+	},
+	{
+		"name": "Charitable Contributions",
+		"type": "Expenses",
+		"detailType": "Charitable Contributions"
+	},
+	{
+		"name": "Computer and Internet Expense",
+		"type": "Expenses",
+		"detailType": "Office/General Administrative Expenses"
+	},
+	{
+		"name": "Continuing Education",
+		"type": "Expenses",
+		"detailType": "Office/General Administrative Expenses"
+	},
+	{
+		"name": "Depreciation Expense",
+		"type": "Expenses",
+		"detailType": "Office/General Administrative Expenses"
+	},
+	{
+		"name": "Dues and Subscriptions",
+		"type": "Expenses",
+		"detailType": "Dues and Subscriptions"
+	},
+	{
+		"name": "Housekeeping Charges",
+		"type": "Expenses",
+		"detailType": "Office/General Administrative Expenses"
+	},
+	{
+		"name": "Insurance Expense",
+		"type": "Expenses",
+		"detailType": "Office/General Administrative Expenses"
+	},
+	{
+		"name": "Insurance Expense-General Liability Insurance",
+		"type": "Expenses",
+		"detailType": "Office/General Administrative Expenses"
+	},
+	{
+		"name": "Insurance Expense-Health Insurance",
+		"type": "Expenses",
+		"detailType": "Office/General Administrative Expenses"
+	},
+	{
+		"name": "Insurance Expense-Life and Disability Insurance",
+		"type": "Expenses",
+		"detailType": "Office/General Administrative Expenses"
+	},
+	{
+		"name": "Insurance Expense-Professional Liability",
+		"type": "Expenses",
+		"detailType": "Office/General Administrative Expenses"
+	},
+	{
+		"name": "Interest Expense",
+		"type": "Expenses",
+		"detailType": "Interest paid"
+	},
+	{
+		"name": "Meals and entertainment",
+		"type": "Expenses",
+		"detailType": "Meals and entertainment"
+	},
+	{
+		"name": "Office Supplies",
+		"type": "Expenses",
+		"detailType": "Office/General Administrative Expenses"
+	},
+	{
+		"name": "Postage and Delivery",
+		"type": "Expenses",
+		"detailType": "Office/General Administrative Expenses"
+	},
+	{
+		"name": "Printing and Reproduction",
+		"type": "Expenses",
+		"detailType": "Office/General Administrative Expenses"
+	},
+	{
+		"name": "Professional Fees",
+		"type": "Expenses",
+		"detailType": "Office/General Administrative Expenses"
+	},
+	{
+		"name": "Purchases",
+		"type": "Expenses",
+		"detailType": "Supplies and materials"
+	},
+	{
+		"name": "Rent Expense",
+		"type": "Expenses",
+		"detailType": "Office/General Administrative Expenses"
+	},
+	{
+		"name": "Repair and maintenance",
+		"type": "Expenses",
+		"detailType": "Office/General Administrative Expenses"
+	},
+	{
+		"name": "Small Tools and Equipment",
+		"type": "Expenses",
+		"detailType": "Office/General Administrative Expenses"
+	},
+	{
+		"name": "Swachh Bharat Cess Expense",
+		"type": "Expenses",
+		"detailType": "Tax expense"
+	},
+	{
+		"name": "Taxes - Property",
+		"type": "Expenses",
+		"detailType": "Office/General Administrative Expenses"
+	},
+	{
+		"name": "Telephone Expense",
+		"type": "Expenses",
+		"detailType": "Office/General Administrative Expenses"
+	},
+	{
+		"name": "Travel Expense",
+		"type": "Expenses",
+		"detailType": "Office/General Administrative Expenses"
+	},
+	{
+		"name": "Uncategorised Expense",
+		"type": "Expenses",
+		"detailType": "Other Miscellaneous Service Cost"
+	},
+	{
+		"name": "Utilities",
+		"type": "Expenses",
+		"detailType": "Utilities"
+	},
+	{
+		"name": "Finance Charge Income",
+		"type": "Other Income",
+		"detailType": "Other Miscellaneous Income"
+	},
+	{
+		"name": "Insurance Proceeds Received",
+		"type": "Other Income",
+		"detailType": "Other Miscellaneous Income"
+	},
+	{
+		"name": "Interest Income",
+		"type": "Other Income",
+		"detailType": "Interest earned"
+	},
+	{
+		"name": "Proceeds from Sale of Assets",
+		"type": "Other Income",
+		"detailType": "Other Miscellaneous Income"
+	},
+	{
+		"name": "Shipping and Delivery Income",
+		"type": "Other Income",
+		"detailType": "Other Miscellaneous Income"
+	},
+	{
+		"name": "Ask My Accountant",
+		"type": "Other Expense",
+		"detailType": "Other Expense"
+	},
+	{
+		"name": "CGST write-off",
+		"type": "Other Expense",
+		"detailType": "Other Expense"
+	},
+	{
+		"name": "GST write-off",
+		"type": "Other Expense",
+		"detailType": "Other Expense"
+	},
+	{
+		"name": "IGST write-off",
+		"type": "Other Expense",
+		"detailType": "Other Expense"
+	},
+	{
+		"name": "Miscellaneous Expense",
+		"type": "Other Expense",
+		"detailType": "Other Expense"
+	},
+	{
+		"name": "Political Contributions",
+		"type": "Other Expense",
+		"detailType": "Other Expense"
+	},
+	{
+		"name": "SGST write-off",
+		"type": "Other Expense",
+		"detailType": "Other Expense"
+	},
+	{
+		"name": "Tax write-off",
+		"type": "Other Expense",
+		"detailType": "Other Expense"
+	},
+	{
+		"name": "Vehicle Expenses",
+		"type": "Other Expense",
+		"detailType": "Other Expense"
+	},
+	{
+		"name": ""
+	}
+]
+}
