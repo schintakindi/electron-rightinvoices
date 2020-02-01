@@ -10,9 +10,9 @@ const log = require("electron-log");
 const latestUpdate = require("update-electron-app");
 const { autoUpdater } = require("electron-updater");
 
-// process.env.GH_TOKEN = process.env.GH_TOKEN
-//   ? process.env.GH_TOKEN
-//   : "00d137589b0b25a6da3d" + "1507052caad8960e9a2b";
+process.env.GH_TOKEN = process.env.GH_TOKEN
+  ? process.env.GH_TOKEN
+  : "210538d21c0163f91b"+"8eddddbd006e6c987182c5";
 
 
 //-------------------------------------------------------------------
@@ -85,8 +85,8 @@ function createDefaultWindow() {
     win = null;
   });
   // win.loadURL('file://' + __dirname + '/version.html');
-  // win.loadURL(`file://${__dirname}/version.html#v${app.getVersion()}}`);
-  win.loadURL(`file://${__dirname}/src/index.html`);
+  win.loadURL(`file://${__dirname}/version.html#v${app.getVersion()}}`);
+  // win.loadURL(`file://${__dirname}/src/index.html`);
   return win;
 }
 
