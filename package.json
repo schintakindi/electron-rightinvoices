@@ -1,0 +1,45 @@
+{
+  "name": "electron-rightinvoices",
+  "version": "1.0.0",
+  "main": "main.js",
+  "description": "electron-updater rightinvoices project",
+  "author": {
+    "name": "schintakindi",
+    "email": "app@example.com",
+    "url": "com.github.schintakindi.electron-rightinvoices"
+  },
+  "scripts": {
+    "start": "electron .",
+    "build:linux": "build --linux -p always",
+    "build:win": "build --windows -p always",
+    "build:mac": "build --mac -p always"
+  },
+  "dependencies": {
+    "electron-log": "^3.0.9",
+    "electron-updater": "^4.2.0",
+    "update-electron-app": "^1.5.0"
+  },
+  "devDependencies": {
+    "electron": "7.1.8",
+    "electron-builder": "^20.44.4",
+    "http-server": "^0.11.1"
+  },
+  "build": {
+    "appId": "com.github.schintakindi.electron-rightinvoices",
+    "linux": {
+      "category": "Utility",
+      "icon": "icons/icons",
+      "target": [
+        "AppImage",
+        "deb"
+      ]
+    },
+    "appImage": {
+      "systemIntegration": "doNotAsk"
+    },
+    "win": {
+      "target": "nsis",
+      "verifyUpdateCodeSignature": false
+    }
+  }
+}
